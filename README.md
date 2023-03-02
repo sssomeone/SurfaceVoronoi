@@ -13,7 +13,22 @@ Eigen3
 
 Boost
 
-## Code will coming soon.
+## Usage
+Before using the core calculation code 'GVD_RVD\\GVD_RVD.hpp', you need to compile the lib file for 'Model3D' and 'Geodesic'. 
+
+These codes are given together in this repository. 
+
+At the same time, we have also given two compiled lib files in the 'lib' folder. If you want to use these two lib files, please run them in 'Visual Studio 2022 Release x64' mode. 
+
+'RVD_RVD/main.cpp' shows how to use the surfaceVoronoi calculation.
+
+## Testing Platform
+* Windows 10
+* Visual Studio 2022
+* AMD Ryzen 5950X
+* 32GB Momery
+
+If you have any problems using the code, please contact me.
 
 
 If you use our code, please consider citing our work:
