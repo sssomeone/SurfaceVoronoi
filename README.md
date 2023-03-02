@@ -7,11 +7,11 @@ Abs: In this paper, we propose to compute Voronoi diagrams over mesh surfaces dr
 Paper link: https://arxiv.org/abs/2212.09029 Doi: https://dl.acm.org/doi/abs/10.1145/3550454.3555453
 
 ## Dependence
-CGAL
+* CGAL
 
-Eigen3
+* Eigen3
 
-Boost
+* Boost
 
 ## Usage
 Before using the core calculation code 'GVD_RVD\\GVD_RVD.hpp', you need to compile the lib file for 'Model3D' and 'Geodesic'. 
@@ -28,7 +28,7 @@ At the same time, we have also given two compiled lib files in the 'lib' folder.
 * AMD Ryzen 5950X
 * 32GB Momery
 
-If you have any problems using the code, please contact me.
+### If you have any problems using the code, please contact me.
 
 
 If you use our code, please consider citing our work:
