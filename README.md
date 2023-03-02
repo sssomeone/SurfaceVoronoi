@@ -14,9 +14,7 @@ Paper link: https://arxiv.org/abs/2212.09029 Doi: https://dl.acm.org/doi/abs/10.
 * Boost
 
 ## Usage
-Before using the core calculation code 'GVD_RVD\\GVD_RVD.hpp', you need to compile the lib file for 'Model3D' and 'Geodesic'. 
-
-These codes are given together in this repository. 
+Before using the core calculation code 'GVD_RVD\\GVD_RVD.hpp', you need to compile the lib file for 'Model3D' and 'Geodesic'. These codes are given together in this repository. 
 
 At the same time, we have also given two compiled lib files in the 'lib' folder. If you want to use these two lib files, please run them in 'Visual Studio 2022 Release x64' mode. 
 
